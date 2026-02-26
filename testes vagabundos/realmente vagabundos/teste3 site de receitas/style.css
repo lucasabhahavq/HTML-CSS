@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(to right,#F2911B, #F27507 );
+}
+main {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 10px 5px 10px #bf5c06;
+    
+}
+p {
+    text-align: justify;
+}
+h1 {}
